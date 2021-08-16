@@ -194,7 +194,7 @@ body {
 }
 
 .footer-logo-studio {
-  color: #212121;
+  color: var(--white);
 }
 
 .footer-address {
